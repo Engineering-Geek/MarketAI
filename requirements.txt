@@ -1,0 +1,7 @@
+torch~=2.2.0.dev20230917+cu121
+boto3~=1.28.49
+botocore~=1.31.49
+pandas~=2.1.0
+tqdm~=4.66.1
+numpy~=1.24.1
+pytest~=7.4.2
